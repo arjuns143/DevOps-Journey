@@ -1,4 +1,3 @@
-# DevOps-Journey
 ## 100 Days DevOps Journey
 #### Days 1-10: Foundations of DevOps
 -	Day 1: Read about DevOps culture and principles.
